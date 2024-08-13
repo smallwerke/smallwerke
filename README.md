@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @smallwerke
-- 👀 I’m interested in making R more accessible to non programmers
-- 🌱 I’m currently learning sequencing analysis 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @smallwerke, I'm using this repository to store code that I find useful. Most (all) of it is current based in R and are tools that I use for the bioinformatic analysis that I do... They are broken down into two installable packages.
 
-<!---
-smallwerke/smallwerke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Histova is a more *full featured* package that I use to generate basic histograms to represent data from many of the common assays we run in the lab
+- BioUtils are a collection of functions that I use and find useful and basically wanted to have a quick way of accessing them so I stuck them into a 'package'...
